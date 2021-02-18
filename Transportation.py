@@ -1,5 +1,4 @@
-  
-class Transportation(object):
+  class Transportation(object):
    """Abstract base class"""
 
    def __init__( self, start, end, distance, station = 0 ):
